@@ -4,7 +4,7 @@ body                               /*定义body样式*/
     margin:0 auto;                 /*边框颜色，大小实线*/
     margin-top:100px;              /*顶部边框大小*/
     margin-bottom:100px;           /*底部边框大小*/
-    width:80%;
+    width:60%;
     height:1300px;
     padding:10px;
     font-size: 19px;
